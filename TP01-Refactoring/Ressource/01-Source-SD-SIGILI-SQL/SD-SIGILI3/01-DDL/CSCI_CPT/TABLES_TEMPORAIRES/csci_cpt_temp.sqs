@@ -1,0 +1,18 @@
+-- C:\Documents and Settings\rosec\Bureau\ddl_cpt\temp\csci_cpt_temp.sqs
+--
+-- Generated for Oracle 10g on Tue Mar 20  11:00:49 2007 by Server Generator 10.1.2.6.18
+ 
+PROMPT Creating Sequence 'SEQ_RIC02_TEMP'
+CREATE SEQUENCE SEQ_RIC02_TEMP
+ NOMAXVALUE
+ NOMINVALUE
+ NOCYCLE
+/
+
+PROMPT Creating Sequence 'SEQ_RIC_TEMP'
+CREATE SEQUENCE SEQ_RIC_TEMP
+ NOMAXVALUE
+ NOMINVALUE
+ NOCYCLE
+/
+

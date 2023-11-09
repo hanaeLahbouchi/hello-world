@@ -1,0 +1,21 @@
+-- C:\Documents and Settings\sibeth\Bureau\scripts\csci_rap.ind
+--
+-- Generated for Oracle 10g on Fri Nov 10  13:53:38 2006 by Server Generator 10.1.2.6.18
+  
+
+PROMPT Creating Index 'UE_CRE_FK_I'
+CREATE INDEX UE_CRE_FK_I ON UE
+ (CODE_CRE)
+/
+
+PROMPT Creating Index 'PAP_CRE_FK_I'
+CREATE INDEX PAP_CRE_FK_I ON PROCESSUS_APPRENTISSAGE
+ (CODE_CRE)
+/
+
+PROMPT Creating Index 'EC_UE_FK_I'
+CREATE INDEX EC_UE_FK_I ON EC
+ (ID_UE)
+/
+
+

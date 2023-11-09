@@ -1,0 +1,4 @@
+-- 
+-- Script d'installation des API de table CSCI-ADM
+-- Ph. Saliou - 04 octobre 2012 - 
+--	

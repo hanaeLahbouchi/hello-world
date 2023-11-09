@@ -1,0 +1,4 @@
+-- 
+-- Script de suppression du CSCI-ADM
+-- Ph. Saliou - 04 octobre 2012 - 
+--	

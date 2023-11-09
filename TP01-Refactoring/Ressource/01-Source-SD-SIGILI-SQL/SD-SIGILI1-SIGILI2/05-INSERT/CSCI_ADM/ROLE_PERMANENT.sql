@@ -1,0 +1,4 @@
+-- INSERTING into ROLE_PERMANENT
+
+Insert into "ROLE_PERMANENT" ("ID_RPE","NO_ENSEIGNANT","SIGLE_RPE","DESIGNATION","COMMENTAIRE") values (1,1,'RF','Responsable Formation',null);
+Insert into "ROLE_PERMANENT" ("ID_RPE","NO_ENSEIGNANT","SIGLE_RPE","DESIGNATION","COMMENTAIRE") values (2,1,'RRA','Responsable RAILI',null);
