@@ -1,1 +1,0 @@
--- INSERTING into DOMAINE_RES
